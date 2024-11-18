@@ -1,16 +1,9 @@
- <img src="https://raw.githubusercontent.com/MrEugeene1/MrEugeene1/master/gh-header-image-cropped.png" alt="banner that says MrEugeene1 - web developer">
+ <img src="https://raw.githubusercontent.com/MrEugeene1/MrEugeene1/master/github-header-image.png" alt="Banner that says MrEugeene1 - web developer">
 
-- 👋 Hi, I’m @MrEugeene1
+![Developer Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlhdDV3YXF0dW4zeGF2OHlvYWQ1eHgzbndpcDdrOGw3cXRidGFwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QX6ruFElzFdeIfblrg/giphy.webp)
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My GitHub Stats
+![MrEugeene1 GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEugeene1&show_icons=true&theme=transparent)
 
-<!---
-MrEugeene1/MrEugeene1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
